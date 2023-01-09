@@ -1,4 +1,5 @@
-const students = [
+
+export const students = [
     {
         name: "Bob",
         age: 22,
@@ -36,7 +37,7 @@ const students = [
         scores: 105,
     },
 ];
-
+/*
 const user = {
     name: "Bob",
     age: 23,
@@ -195,4 +196,4 @@ const addFriends = (sts) => {
     }));
 };
 
-console.log(addFriends(students));
+console.log(addFriends(students));*/
